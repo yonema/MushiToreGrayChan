@@ -1,5 +1,7 @@
 <link href="stylesheet.css" rel="stylesheet"></link>
 
+<a href = "https://yonema.github.io/Portfolio_HomePage/" target="_blank" >ホームページへ</a>
+
 # **「むしをとれとれぐれいちゃん」ポートフォリオ**<!-- omit in toc -->
 ## 河原電子ビジネス専門学校　ゲームクリエイター科2年
 ## 氏名：米地 真央
@@ -16,6 +18,7 @@
 - [2.ゲーム内容](#2ゲーム内容)
 - [3ゲーム的にこだわったところ](#3ゲーム的にこだわったところ)
 - [4.技術的にこだわったところ](#4技術的にこだわったところ)
+- [リンク](#リンク)
 
 ***
 # 1.作品概要
@@ -78,3 +81,11 @@
    2. 「そうげん」は、緩やかに隆起した地面をランドスケープで作り、花や草をFoliageではやした。
    3. 「けいこく」は、険しい崖をランドスケープで作り、岩や枯草をFoliageではやした。
    4. 「もり」は、緩やかに隆起した地面や川をランドスケープで作り、木や植物はFoliageではやした。
+
+
+# リンク
+
+* <a href = "https://yonema.github.io/Portfolio_HomePage/" target="_blank" >ホームページへ</a>
+* <a href = "https://twitter.com/MaoYoneji" target="_blank">Twitter</a>
+* <a href = "https://www.youtube.com/channel/UC03BQEviN9mx7Y-QmyndPuw" target="_blank">YouTube</a>
+* <a href = "https://github.com/yonema" target="_blank">GitHub</a>
